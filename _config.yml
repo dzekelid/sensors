@@ -4,7 +4,7 @@ url: sensors.streamdata.gallery
 tag: Sensors
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery
+github_user: streamdata-gallery-topics
 github_repo: sensors
 github_branch: master
 collections:
